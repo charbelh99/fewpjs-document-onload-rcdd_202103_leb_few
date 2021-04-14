@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-  let 
+  let lo =document.getElelement
 });
